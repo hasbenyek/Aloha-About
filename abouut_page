@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Aloha | More About Batik</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <style>
+    .fade-in-up {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 2s forwards;
+    } 
+
+    @keyframes fadeInUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    .hover-scale:hover {
+      transform: scale(1.1);
+      transition: transform 0.3s;
+    }
+    .footer {
+      background-color: #c8a170;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+    }
+    .footer a {
+      color: #fff;
+      margin: 0 10px;
+    }
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg" style="background-color: #060b35;">
+    <div class="container-fluid fade-in-up">
+      <a class="navbar-brand hover-scale" style="color: blanchedalmond; font-family: Coolvetica; font-size: 26px;" href="">Aloha!</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="">Batik History</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://hasbenyek.github.io/Aloha-Form/form_page.html" target="_blank">Reservation</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#footer">Contact</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#footer">About Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <div class="my-auto" style="background-color: #c8a170;">
+    <div class="container-fluid text-center fade-in-up">
+      <div class="container">
+        <h1 style="font-family: Coolvetica;"> <br> Batik History </h1>
+        <p style="font-family: Coolvetica; font-size: 22px;">Traditional Culture From Java Island</p>
+        <br>
+        <div class="row">
+          <div class="col-md-6 my-5 text-right">
+            <p style="font-family: Coolvetica; font-size: 24px;" class="my-4 hover-scale">
+                <br>
+              Batik, a traditional Indonesian textile, is a testament to the rich cultural heritage of the archipelago. Its intricate patterns and vibrant colors have captivated the world for centuries.
+            </p>
+          </div>
+          <div class="col-md-6 text-right">
+            <img src="https://cdn1-production-images-kly.akamaized.net/QNYg7bTbSNOyfv61NzlVo-mHx7c=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3252200/original/094313900_1601354883-indonesia-4614986_1280.jpg" class="mx-auto my-5 hover-scale" style="max-width: 100%; height: auto;">
+            <br>
+            <br>
+            <br>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="" style="background-color: rgb(246, 235, 219);">
+    <br>
+    <br>
+    <br>
+    <div class="container-fluid fade-in-up text-center">
+        <div class="container">
+            <h1 class="text-center fade-in-up" style="font-family: coolvetica;">Ancient Origin</h1>
+            <br>
+            <div class="row align-items-center">
+                <div class="col-md-6 hover-scale">
+                    <img src="https://imgx.parapuan.co/crop/0x0:0x0/x/photo/2021/10/03/mengapresiasi-warisan-budaya-den-20211003030135.jpg" class="margin-start" height="200px" width="400px">
+                </div>
+                <div class="col-md-6 text-left">
+                    <p style="font-family: coolvetica; font-size: 22px;" class="hover-scale my-1">
+                        The origins of batik can be traced back to ancient times. Evidence of wax-resist dyeing techniques, similar to batik, has been found in various civilizations, including Egypt, India, and China. However, it is in Indonesia, particularly on the island of Java, where batik truly flourished and became an integral part of the culture.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</div>
+<div class="" style="background-color: #060b35;">
+    <br>
+    <br>
+    <br>
+    <div class="container-fluid fade-in-up text-center my-5">
+        <div class="container">
+            <h1 class="text-center fade-in-up" style="font-family: coolvetica; color: #c8a170;">Let Us Know If You Are Interested!</h1>
+            <a href="https://hasbenyek.github.io/Aloha-Form/form_page.html" target="_blank"><p style="color: #819bea; font-size: 24px; font-family: coolvetica;" class="hover-scale">Register Here!</p></a>
+            <br>
+            <br>
+            <br>
+        </div>
+    </div>
+<footer class="footer">
+    <div class="container-fluid fade-in-up my-4">
+      <br>
+        <p>&copy; 2024 Aloha.com. All rights reserved. BTW ini merk fiksi doang guys. | <a href="#">Privacy Policy</a></p>
+        <p id="footer">
+            <a href="#">Facebook</a> |
+            <a href="#">Twitter</a> |
+            <a href="#">Instagram</a>
+        </p>
+    </div>
+  </footer>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT+zC1z4Vt3v3/1G1P5y1e1e1e1e1e1e1e1e1e1e1e1e1e1e1" crossorigin="anonymous"></script>
